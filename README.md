@@ -17,9 +17,7 @@ You will find projects related to data analysis and vizualization in my repos. L
 
 Developing data analysis projects and finding a career to showcase my skills. 
 
-To check out my portfolio, check out my other GitHub:
-
-[**CALY-PSO**](https://github.com/caly-pso/)
+To check out my portfolio, check out my other GitHub: [**CALY-PSO**](https://github.com/caly-pso/)
 
 ### What I am up to when I am not looking for a new dataset... 🌄 
 
