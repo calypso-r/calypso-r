@@ -9,15 +9,13 @@
 
 ### Hi there, I'm Calypso 🙌 
 
-I am a **Data Analyst** working to tell stories with data. I work mostly with Python, Pandas, Plotly, and Seaborn. 
+I am a **Data Analyst** working to tell stories with data. I work mostly with Python, Pandas, Plotly, and Seaborn. To check out my portfolio, check out my other GitHub: [**CALY-PSO**](https://github.com/caly-pso/)
 
-You will find projects related to data analysis and vizualization in my repos. Look below to find projects that I am really proud of!
+### Among these repos are... 📊 
 
-### I'm currently working on... 📊 
-
-Developing data analysis projects and finding a career to showcase my skills. 
-
-To check out my portfolio, check out my other GitHub: [**CALY-PSO**](https://github.com/caly-pso/)
+- **Some of my unfinished projects
+- **Forked repos I need to reference
+- **Repos I want to contribute to
 
 ### What I am up to when I am not looking for a new dataset... 🌄 
 
