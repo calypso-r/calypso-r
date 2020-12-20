@@ -13,9 +13,9 @@ I am a **Data Analyst** working to tell stories with data. I work mostly with Py
 
 ### Among these repos are... 📊 
 
-- **Some of my unfinished projects
-- **Forked repos I need to reference
-- **Repos I want to contribute to
+- **Some of my unfinished projects**
+- **Forked repos I need to reference**
+- **Repos I want to contribute to**
 
 ### What I am up to when I am not looking for a new dataset... 🌄 
 
