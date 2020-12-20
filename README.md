@@ -1,7 +1,7 @@
 ![banner](https://github.com/caly-pso/caly-pso/blob/main/header.png)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-calypsorynkowski-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/calypsorynkowski/)
-[![GitHub](https://img.shields.io/badge/GitHub-caly--pso-lightgrey?style=flat-square&logo=github)](https://github.com/calypso-r)
+[![GitHub](https://img.shields.io/badge/GitHub-calypso--r-lightgrey?style=flat-square&logo=github)](https://github.com/calypso-r)
 [![Website](https://img.shields.io/badge/Website-caly--pso.github.io-brightgreen?style=flat-square)](https://caly-pso.github.io/)
 <!-- [![Twitter](https://img.shields.io/twitter/follow/caly-pso?style=flat-square&logo=twitter)](https://twitter.com/caly-pso)
 [![Medium](https://img.shields.io/badge/Medium-caly-pso-green?style=flat-square&logo=medium)](https://medium.com/@caly-pso) -->
