@@ -11,13 +11,9 @@
 
 I am a **Data Analyst** working to tell stories with data. I work mostly with Python, Pandas, Plotly, and Seaborn. To check out my portfolio, check out my other GitHub: [**CALY-PSO**](https://github.com/caly-pso/)
 
-### Among these repos are... 📊 
+### Among these repos are... 
 
-- **Some of my unfinished projects**
-- **Forked repos I need to reference**
-- **Repos I want to contribute to**
-
-### What I am up to when I am not looking for a new dataset... 🌄 
-
-Exploring the beautiful trails of Colorado, and camping when the weather is right.
+- Some of my unfinished projects
+- Forked repos I like to reference
+- Repos I want to contribute to
 
